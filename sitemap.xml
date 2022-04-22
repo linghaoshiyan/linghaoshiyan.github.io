@@ -101,13 +101,6 @@
 
   
   <url>
-    <loc>http://example.com/tags/hadoop/</loc>
-    <lastmod>2022-04-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/mapreduce/</loc>
     <lastmod>2022-04-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -129,14 +122,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/spader/</loc>
+    <loc>http://example.com/tags/markdown/</loc>
     <lastmod>2022-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/markdown/</loc>
+    <loc>http://example.com/tags/spader/</loc>
     <lastmod>2022-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -145,7 +138,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/Hadoop/</loc>
+    <loc>http://example.com/categories/hadoop/</loc>
     <lastmod>2022-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
