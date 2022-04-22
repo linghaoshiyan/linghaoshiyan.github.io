@@ -115,13 +115,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/spader/</loc>
-    <lastmod>2022-04-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/node-js/</loc>
     <lastmod>2022-04-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -130,6 +123,13 @@
   
   <url>
     <loc>http://example.com/tags/hexo/</loc>
+    <lastmod>2022-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/spader/</loc>
     <lastmod>2022-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -146,13 +146,6 @@
   
   <url>
     <loc>http://example.com/categories/Hadoop/</loc>
-    <lastmod>2022-04-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/categories/hadoop%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
